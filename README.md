@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @YusufEdmond
-- 👀 I’m interested in all things computers. Love to drink coffee while programming or reading some fine literature.
-- 🌱 I’m currently learning DSA and all things cloud (its the future).
-- 💞️ I’m looking to collaborate on any projects. learning is best with others!!!!
-- 📫 How to reach me: Discord: >> INeedMoreCoffee#1042 <<
-- 🌑 Planning to go to the moon in like 10 years.
+## Hello 👋
 
-<!---
-YusufEdmond/YusufEdmond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Yusuf Edmond and I'm a Cloud computing Major at George Mason University. Here some info about me!
+
+### ⚡ Projects:
+##### > - **Command** **Line** **API**: .Net 6 MVC Architecture REST API used for stooring Command Snippets.
+##### > - 
